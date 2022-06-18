@@ -1,3 +1,3 @@
 # lifeinwild
 
-git@github.com:Surbhi-SD/lifeinwild.git
+https://surbhi-sd.github.io/lifeinwild/
